@@ -1,0 +1,28 @@
+{
+  "pipeline": "8-step OpenCV registration pipeline",
+  "date": "2026-06-01",
+  "rotation_center": {
+    "x": -0.0346,
+    "z": 0.7861
+  },
+  "deg_per_frame": 10.0,
+  "num_frames": 36,
+  "pot_mesh": {
+    "vertices": 64000,
+    "triangles": 113040
+  },
+  "plant_mesh": {
+    "vertices": 98252,
+    "triangles": 158847
+  },
+  "fused_mesh": {
+    "vertices": 160578,
+    "triangles": 271887
+  },
+  "outputs": [
+    "fused_mesh.ply",
+    "fused_mesh.obj",
+    "pot_mesh.ply",
+    "plant_mesh.ply"
+  ]
+}

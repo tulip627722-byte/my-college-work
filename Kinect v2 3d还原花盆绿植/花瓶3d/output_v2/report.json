@@ -1,0 +1,6 @@
+{
+  "pipeline": "pot_ref_frame24_plant_frame24_manual",
+  "pot_pts": 52698,
+  "plant_pts": 866,
+  "merged_pts": 26045
+}

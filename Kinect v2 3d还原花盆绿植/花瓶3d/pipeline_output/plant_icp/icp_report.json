@@ -1,0 +1,103 @@
+{
+  "num_accepted": 16,
+  "num_skipped": 19,
+  "abandoned_icp": true,
+  "results": [
+    {
+      "frame": 1,
+      "fitness": 1.0,
+      "rmse": 0.0043792087163539075,
+      "accepted": true
+    },
+    {
+      "frame": 2,
+      "fitness": 1.0,
+      "rmse": 0.006351156226313391,
+      "accepted": true
+    },
+    {
+      "frame": 3,
+      "fitness": 1.0,
+      "rmse": 0.005917233942844294,
+      "accepted": true
+    },
+    {
+      "frame": 4,
+      "fitness": 1.0,
+      "rmse": 0.005517424478455467,
+      "accepted": true
+    },
+    {
+      "frame": 5,
+      "fitness": 1.0,
+      "rmse": 0.004131114020806837,
+      "accepted": true
+    },
+    {
+      "frame": 6,
+      "fitness": 1.0,
+      "rmse": 0.0030730280711636325,
+      "accepted": true
+    },
+    {
+      "frame": 7,
+      "fitness": 1.0,
+      "rmse": 0.0026448321159668583,
+      "accepted": true
+    },
+    {
+      "frame": 8,
+      "fitness": 1.0,
+      "rmse": 0.003162107950169982,
+      "accepted": true
+    },
+    {
+      "frame": 9,
+      "fitness": 1.0,
+      "rmse": 0.0019125590551505348,
+      "accepted": true
+    },
+    {
+      "frame": 10,
+      "fitness": 1.0,
+      "rmse": 0.002064698285047297,
+      "accepted": true
+    },
+    {
+      "frame": 30,
+      "fitness": 1.0,
+      "rmse": 0.006633015027102204,
+      "accepted": true
+    },
+    {
+      "frame": 31,
+      "fitness": 1.0,
+      "rmse": 0.003493952357563622,
+      "accepted": true
+    },
+    {
+      "frame": 32,
+      "fitness": 1.0,
+      "rmse": 0.0038111992115096856,
+      "accepted": true
+    },
+    {
+      "frame": 33,
+      "fitness": 1.0,
+      "rmse": 0.009671319187211288,
+      "accepted": true
+    },
+    {
+      "frame": 34,
+      "fitness": 1.0,
+      "rmse": 0.005240625735590431,
+      "accepted": true
+    },
+    {
+      "frame": 35,
+      "fitness": 1.0,
+      "rmse": 0.003498285460811471,
+      "accepted": true
+    }
+  ]
+}
